@@ -4,7 +4,7 @@ gem "rspec"
 
 gem "sinatra"
 
-gem
+gem "hashie"
 
 group :development do
   gem "pry"
